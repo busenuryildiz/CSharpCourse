@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{BE2B648A-47BF-46CF-899F-6D5C4FF47482}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{4FB5611E-47E0-4C31-B33F-1E5B27CEBEE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BE2B648A-47BF-46CF-899F-6D5C4FF47482}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE2B648A-47BF-46CF-899F-6D5C4FF47482}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE2B648A-47BF-46CF-899F-6D5C4FF47482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB5611E-47E0-4C31-B33F-1E5B27CEBEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB5611E-47E0-4C31-B33F-1E5B27CEBEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB5611E-47E0-4C31-B33F-1E5B27CEBEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB5611E-47E0-4C31-B33F-1E5B27CEBEE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
